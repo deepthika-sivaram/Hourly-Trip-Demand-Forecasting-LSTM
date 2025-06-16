@@ -32,6 +32,7 @@ Hourly-Trip-Demand-Forecasting-LSTM/
 ```bash
 git clone https://github.com/your-username/Hourly-Trip-Demand-Forecasting-LSTM.git
 cd Hourly-Trip-Demand-Forecasting-LSTM
+pip install -r requirements.txt
 ```
 Open the notebook in `notebooks/Hourly_Trip_Demand_Forecasting_LSTM.ipynb`.
 
